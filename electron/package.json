@@ -1,0 +1,10 @@
+{
+  "name": "miniclaw-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Electron desktop shell for LingDot.",
+  "main": "dist/main.cjs",
+  "author": "helson",
+  "license": "MIT",
+  "homepage": "https://github.com/sxh313/LingDot#readme"
+}
